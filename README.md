@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**sofiaquimbayita-prog/sofiaquimbayita-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm sofia 
+Estudiante de analisis y desarrollo de software
 
-Here are some ideas to get you started:
+Actualmente soy aprendiz, me gusta crear proyectos y mejorar mis habilidades como programador junior 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias
+
+ - **Python**  lenguaje de programacion
+
+- **Django** Desarrollo web.
+
+- **JavasScript** Interactidad de pagina.
+
+- **HTML5** Estructura web.
+
+- **CSS3** Diseño y estilo.
+
+- **Mysql shell/ workbench** Gestion de bases de datos.
+
+- **GIT github** Control de versiones.
+
+**GITHUB STAST**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sofiaquimbayita-prog&theme=dracula&hide_border=true&border_radius=4.8&locale=es)](https://git.io/streak-stats)

@@ -1,5 +1,5 @@
 
-# Hi, I'm sofia 
+# hola, mi nombre es sofia 
 Estudiante de analisis y desarrollo de software
 
 Actualmente soy aprendiz, me gusta crear proyectos y mejorar mis habilidades como programador junior 

@@ -1,9 +1,9 @@
 <!-- ╔══════════════════════════════════════════════╗ -->
-<!--                    HEADER                      -->
+<!--                    BANNER                      -->
 <!-- ╚══════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=200&section=header&text=¡Hola,%20soy%20Fofi!%20🌼💜&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="./image.png" width="100%">
 </p>
 
 
@@ -146,12 +146,22 @@ y crear proyectos geniales 🤌✌️🫶
 
 </p>
 
+
 <br>
 
+
 <p align="center">
-  ✦ ───────────────────────────────────── ✦
+
+✦ ───────────────────────────────────── ✦
+
 </p>
 
+
+<!-- ══════════════════════════════════════════════ -->
+<!--               MIS CONTRIBUCIONES               -->
+<!-- ══════════════════════════════════════════════ -->
+
+---
 
 # ୨୧ Mis contribuciones
 

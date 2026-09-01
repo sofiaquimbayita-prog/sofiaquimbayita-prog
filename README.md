@@ -1,8 +1,8 @@
 
 # hola, mi nombre es sofia 
-Estudiante de analisis y desarrollo de software
+Soy estudiante de analisis y desarrollo de software
 
-Actualmente soy aprendiz, me gusta crear proyectos y mejorar mis habilidades como programador junior 
+Actualmente soy aprendiz, me gusta crear proyectos y mejorar mis habilidades como programadora junior 
 
 
 ## Tecnologias

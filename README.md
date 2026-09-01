@@ -1,77 +1,104 @@
+<!-- 🌸 HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=¡Hola,%20soy%20Fofi!%20🌼💜&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=200&section=header&text=¡Hola,%20soy%20Fofi!%20🌼💜&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- ✨ TEXTO ANIMADO -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Estudiante+de+Desarrollo+de+Software+💻;Aprendiendo+Python+🐍;Explorando+Django+🌐;Creando+proyectos+✨;Aprendiendo+algo+nuevo+cada+día+🌸"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120">
+  ✦ ──────────────── 💜 ──────────────── ✦
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Estudiante+de+Desarrollo+de+Software+%F0%9F%92%BB;Aprendiendo+Python+%F0%9F%90%8D;Creando+proyectos+%F0%9F%9A%80;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%E2%9C%A8" />
-</p>
+<br>
 
----
+# 💜 Hola, soy aprendiz Sofia
 
-# 💜 Hola, soy aprendiz sofia 
-
-🤓👆Estudiante de Análisis y Desarrollo de Software.
+🤓☝️ Estudiante de Análisis y Desarrollo de Software.
 
 Actualmente estoy aprendiendo desarrollo de software y me gusta crear proyectos
 para poner en práctica mis conocimientos y seguir mejorando.
 
-## 🦋 Sobre mí
+<br>
+
+---
+
+# 🦋 Sobre mí
 
 <p align="center">
 
-Actualmente estoy fortaleciendo mis conocimientos en python y en django pero me gusta mas jugar con los diseños
-para que se vea bonita la pagina. Mi objetivo es seguir aprendiendo para crear proyectos geniales 🤌✌️🫶
+Actualmente estoy fortaleciendo mis conocimientos en Python y Django,
+pero me gusta más jugar con los diseños para que las páginas se vean bonitas,
+estéticas y divertidas 🍬✨
+
+Mi objetivo es seguir aprendiendo, experimentar con nuevas ideas
+y crear proyectos geniales 🤌✌️🫶
+
 </p>
 
+<br>
 
-# 💜 Tecnologías
+<p align="center">
+  ✦ ⋆｡°✩ ⋆｡°✩ ⋆｡°✩ ✦
+</p>
 
-### 🐥 Lenguajes
+---
+
+# 🎀 Tecnologías
+
+## 🐥 Lenguajes
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-C084FC?style=for-the-badge&logo=javascript&logoColor=white">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E879F9?style=for-the-badge&logo=html5&logoColor=white">
 
-<img src="https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-A78BFA?style=for-the-badge&logo=css3&logoColor=white">
 
 </p>
 
-### ⚙️ Framework
+---
+
+## 🌐 Framework
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Django-7E22CE?style=for-the-badge&logo=django&logoColor=white">
 
 </p>
 
-### 🗄️ Bases de datos
+---
+
+## 🗄️ Bases de datos
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MySQL-6C5CE7?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white">
 
-<img src="https://img.shields.io/badge/MySQL_Workbench-9B59B6?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL_Workbench-C084FC?style=for-the-badge&logo=mysql&logoColor=white">
 
 </p>
 
-### 🛠️ Herramientas
+---
+
+## 🛠️ Herramientas
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Git-A855F7?style=for-the-badge&logo=git&logoColor=white">
 
-<img src="https://img.shields.io/badge/GitHub-8E44AD?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-7E22CE?style=for-the-badge&logo=github&logoColor=white">
 
 </p>
+
+<br>
 
 ---
 
@@ -83,25 +110,28 @@ para que se vea bonita la pagina. Mi objetivo es seguir aprendiendo para crear p
 
 <td align="center" width="180">
 
-💻  
+🌸
+
 ### Código
 
-aprender programando
+Aprender programando.
 
 </td>
 
 <td align="center" width="180">
 
-🎨  
+🎨
+
 ### Diseño
 
-me gusta crear las interfaz esteticas y divertidas🍬🍬
+Me gusta crear interfaces estéticas y divertidas 🍬
 
 </td>
 
 <td align="center" width="180">
 
-🚀  
+🚀
+
 ### Proyectos
 
 Convertir ideas en proyectos.
@@ -114,7 +144,8 @@ Convertir ideas en proyectos.
 
 <td align="center">
 
-🐍  
+🐍
+
 ### Python
 
 Explorar nuevas cosas.
@@ -123,7 +154,8 @@ Explorar nuevas cosas.
 
 <td align="center">
 
-🗄️  
+🗄️
+
 ### MySQL
 
 Trabajar con bases de datos.
@@ -132,7 +164,8 @@ Trabajar con bases de datos.
 
 <td align="center">
 
-🌱  
+🌱
+
 ### Aprender
 
 Mejorar poco a poco.
@@ -145,33 +178,66 @@ Mejorar poco a poco.
 
 ---
 
+<p align="center">
+  ✦ ─────────────── 🌷 ─────────────── ✦
+</p>
+
 # 📊 Mi actividad
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sofiaquimbayita-prog&locale=es&theme=tokyonight&hide_border=false">
+<img src="https://streak-stats.demolab.com/?user=sofiaquimbayita-prog&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=C084FC&sideLabels=C084FC&dates=9CA3AF" width="500">
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sofiaquimbayita-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=EC4899&text_color=FFFFFF&include_all_commits=true" width="500">
 
 </p>
 
 ---
 
-# 🌸 Actualmente
+# 🌸 Mis contribuciones
 
 <p align="center">
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="700">
+
+</p>
+
+---
+
+# 🎯 Mis objetivos
+
+<p align="center">
+
+🌱 Seguir aprendiendo programación  
+💻 Crear proyectos cada vez más completos  
+🐍 Mejorar mis conocimientos en Python  
+🌐 Aprender más sobre Django  
+🎨 Crear interfaces bonitas y diferentes  
+🗄️ Seguir mejorando con bases de datos  
+🚀 Convertir ideas en proyectos reales  
+
+</p>
+
+---
+
+# 💫 Un poquito más de mí
+
+<details>
+<summary>🌷 Cositas que estoy aprendiendo</summary>
+
+<br>
+
 ```text
-╭──────────────────────────────────────╮
-│                                      │
-│  💜 Aprendiendo desarrollo web       │
-│                                      │
-│  🐍 Practicando Python                │
-│                                      │
-│  🌐 Aprendiendo Django                │
-│                                      │
-│  🗄️ Trabajando con MySQL             │
-│                                      │
-│  🎨 Practicando HTML + CSS            │
-│                                      │
-│  🚀 Creando nuevos proyectos         │
-│                                      │
-╰──────────────────────────────────────╯
+Python       → 🟣🟣🟣🟣🟣
+Django       → 🟣🟣🟣🟣
+JavaScript   → 🟣🟣🟣
+HTML         → 🟣🟣🟣🟣🟣
+CSS          → 🟣🟣🟣🟣
+MySQL        → 🟣🟣🟣🟣
+Git          → 🟣🟣🟣🟣

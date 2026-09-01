@@ -3,7 +3,7 @@
 <!-- ╚══════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="image.png" alt="Banner" width="1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=200&section=header&text=¡Hola,%20soy%20Fofi!%20🌼💜&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 

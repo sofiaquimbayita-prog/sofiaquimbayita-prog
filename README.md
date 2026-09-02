@@ -1,15 +1,7 @@
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--                    BANNER                      -->
-<!-- ╚══════════════════════════════════════════════╝ -->
 
 <p align="center">
   <img src="./image.png" width="100%">
 </p>
-
-
-<!-- ══════════════════════════════════════════════ -->
-<!--                 TEXTO ANIMADO                  -->
-<!-- ══════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Estudiante+de+Desarrollo+de+Software;Aprendiendo+Python;Explorando+Django;Creando+proyectos;Aprendiendo+algo+nuevo+cada+d%C3%ADa"/>
@@ -35,11 +27,6 @@ para poner en práctica mis conocimientos y seguir mejorando.
 
 
 <br>
-
-
-<!-- ══════════════════════════════════════════════ -->
-<!--                    SOBRE MÍ                    -->
-<!-- ══════════════════════════════════════════════ -->
 
 ---
 
@@ -67,10 +54,6 @@ y crear proyectos geniales 🤌✌️🫶
 
 </p>
 
-
-<!-- ══════════════════════════════════════════════ -->
-<!--                  TECH STACK                    -->
-<!-- ══════════════════════════════════════════════ -->
 
 ---
 
@@ -133,10 +116,6 @@ y crear proyectos geniales 🤌✌️🫶
 </p>
 
 
-<!-- ══════════════════════════════════════════════ -->
-<!--                  MI ACTIVIDAD                  -->
-<!-- ══════════════════════════════════════════════ -->
-
 ---
 
 # ୨୧ Mi actividad
@@ -157,10 +136,6 @@ y crear proyectos geniales 🤌✌️🫶
 
 </p>
 
-
-<!-- ══════════════════════════════════════════════ -->
-<!--               MIS CONTRIBUCIONES               -->
-<!-- ══════════════════════════════════════════════ -->
 
 ---
 

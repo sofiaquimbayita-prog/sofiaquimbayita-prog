@@ -45,6 +45,7 @@ para poner en práctica mis conocimientos y seguir mejorando.
 
 # ୨୧ Sobre mí
 
+<img align="right" src="./image%20copy.png" width="280">
 <p align="center">
 
 Actualmente estoy fortaleciendo mis conocimientos en Python y Django,
